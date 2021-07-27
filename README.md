@@ -1,5 +1,6 @@
 # frequently asked qn.github.io
  Frequently Asked Question
+ 
  In this page I had created FAQ for Swag of India webpage. For structuing I used HTML, for styling I used CSS, for creating responsive webpage I used Bootstrap and i used javascript for adding behaviour. Moreover in this page I used javascript behaviour for plus sign to show the description and minus sign to hide the description.
  
  please check my webpage here : https://vigneshmanimaran.github.io/frequently-asked-qn.github.io/
